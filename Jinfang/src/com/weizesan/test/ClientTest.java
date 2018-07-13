@@ -46,7 +46,7 @@ public class ClientTest {
 				pw.println(msg);
 				System.out.println("已发送出去!!!!!");
 				if(br.readLine()!=null){
-					System.out.println("是否接收到响应包?");
+					System.out.println("是否接收到响应包????");
 					System.out.println(br.readLine());
 					}
 				System.out.println("没接收到响应包?");
